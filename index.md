@@ -1,10 +1,6 @@
-# Jonathan Dereje
+### This portfolio contains work created during my time in the MSSE program at Regis University.
 
-## MSSE Portfolio
-
-This portfolio contains work created during my time in the MSSE program at Regis University.
-
-## Portfolio Decision Records
+## Portfolio Records
 
 ### MSSE 601: Golden Bike Shop Architecture
 
