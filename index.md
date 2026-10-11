@@ -1,4 +1,4 @@
-### This portfolio contains work created during my time in the MSSE program at Regis University.
+##### This portfolio contains work created during my time in the MSSE program at Regis University.
 
 ## Portfolio Records
 
